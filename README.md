@@ -18,4 +18,8 @@
 - 🎓📚 Education
 - 🎮🕹 Games
 
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanvga&theme=dark&hide_langs_below=1" />
+</a>
+
 ## Connect with me

@@ -1,6 +1,6 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
-# Welcome! I'm Jean Mendes!
+# 🚀 Welcome! I'm Jean Mendes!
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,12 +11,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 - 🎓📚 Education
 - 🎮🕹 Games
 
-## 👩‍💻 Languages
+-->
+
+## 💻 Languages
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanvga&theme=dark&hide_langs_below=1" />
 
@@ -27,7 +29,7 @@
 
 
 
-## Connect with me
+##🤜🤛 Connect with me
 
 <a href="https://www.linkedin.com/in/jeanmendes/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

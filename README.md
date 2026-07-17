@@ -1,11 +1,5 @@
 # Olá, eu sou Jean Mendes! 👋
 
-### Desenvolvedor TOTVS Protheus | ADVPL | TL++ | Integrações
-
-Desenvolvedor focado em soluções e customizações para o ecossistema **TOTVS Protheus**, atuando com desenvolvimento, manutenção e evolução de rotinas empresariais.
-
-Também possuo experiência com tecnologias web e utilizo a programação para transformar processos de negócio em soluções eficientes e sustentáveis.
-
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvimento e manutenção de rotinas em **ADVPL e TL++**
@@ -36,21 +30,6 @@ Também possuo experiência com tecnologias web e utilizo a programação para t
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    height="200"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeanvga&theme=github_dark"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="200"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanvga&theme=github_dark"
-    alt="Linguagens mais utilizadas"
-  />
 </p>
 
 ## 🤝 Vamos nos conectar?

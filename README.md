@@ -38,11 +38,19 @@ Também possuo experiência com tecnologias web e utilizo a programação para t
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-## 📊 GitHub
+## 📊 Estatísticas do GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeanvga&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanvga&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
+<p align="center">
+  <img
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeanvga&theme=github_dark"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanvga&theme=github_dark"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
 ## 🤝 Vamos nos conectar?
